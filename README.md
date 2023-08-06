@@ -5,6 +5,8 @@
     *     Scrape and analyse customer review data to uncover findings for British Airways
 * Task 2: Predicting customer buying behaviour
   *      Build a predictive model to understand factors that influence buying behaviour
+* link internship
+*       https://www.theforage.com/virtual-internships/NjynCWzGSaWXQCxSX?ref=7T8auwCMWRCaJPeGS
 ## Used languges and Tools
 1. python
 2. powerpoint
